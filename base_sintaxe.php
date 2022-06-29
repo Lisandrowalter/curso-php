@@ -28,4 +28,5 @@ AND OR NOT
 // terminal
 $variavel= readline ();
 
+
 ?>
